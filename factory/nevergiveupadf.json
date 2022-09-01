@@ -1,0 +1,9 @@
+{
+	"name": "nevergiveupadf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b6a49ed-0e52-484e-a520-c596be25da35",
+		"tenantId": "d1e00449-50eb-40cf-8e04-d3b54875e988"
+	}
+}
