@@ -1,0 +1,11 @@
+{
+	"name": "ls_adls_covid",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://devdatalake02sa.dfs.core.windows.net/"
+		}
+	}
+}

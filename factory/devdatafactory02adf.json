@@ -1,0 +1,9 @@
+{
+	"name": "devdatafactory02adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f9216b9-078b-47fa-97bb-ae1f615b5167",
+		"tenantId": "8a9762b7-5bf2-4277-a18f-bba1b84024f3"
+	}
+}
